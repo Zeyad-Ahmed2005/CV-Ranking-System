@@ -1,8 +1,11 @@
 # CV Ranking System
 
 Marwan Ghazal – 231000765
+
 Omar Amin – 231000573
+
 Mohamed Abdellatif – 231000119
+
 Zeyad Ahmed – 231000010
 
 **Libraries used:**
